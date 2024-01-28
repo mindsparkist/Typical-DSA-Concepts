@@ -16,3 +16,6 @@
 Imagine a tree as a family tree, with the root node representing the ancestor and leaves representing descendants.
 The height of the tree would be the number of generations from the ancestor to the furthest descendant.
 The depth of a specific descendant would be their generation number (e.g., a child of the ancestor has depth 1, a grandchild has depth 2, and so on).
+
+## Technical Documentation 
+https://shuvradipchakrabortyportfolio.blogspot.com/2024/01/introducing-ultimate-dsa-concepts.html
