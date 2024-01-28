@@ -19,3 +19,9 @@ The depth of a specific descendant would be their generation number (e.g., a chi
 
 ## Technical Documentation 
 https://shuvradipchakrabortyportfolio.blogspot.com/2024/01/introducing-ultimate-dsa-concepts.html
+
+# How to calculate if a tree (binary tree) is balanced? 
+
+To calcaulate if a bianry tree is balanced is check if the height of the left subtree - height of the right subtree is < or = to 1.
+
+
