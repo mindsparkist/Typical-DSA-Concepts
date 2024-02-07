@@ -24,4 +24,9 @@ https://shuvradipchakrabortyportfolio.blogspot.com/2024/01/introducing-ultimate-
 
 To calcaulate if a bianry tree is balanced is check if the height of the left subtree - height of the right subtree is < or = to 1.
 
+## Heap 
 
+A heap is a complete binary tree that satifies the heap property 
+
+1 complete binary tree - Every level leaving potentially the last level is completely filled and nodes are filled form left to the right.
+2 the heap property - The value of every node is greter that or equal to it`s child node.
