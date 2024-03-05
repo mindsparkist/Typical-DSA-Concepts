@@ -69,3 +69,54 @@ O(L) -  Deletion
 
 
 
+#### Graphs
+
+In the context of Data Structures and Algorithms (DSA), a graph is a collection of nodes (vertices) and edges that connect pairs of nodes. Graphs are a fundamental data structure used to represent relationships and connections between different entities.
+
+#### Applications of graph`s 
+
+Applications, including computer networking, social networks, geographical maps,
+
+Various types based on their properties. Common types include:
+
+-   **Directed Graph (Digraph):** A graph in which edges have a direction, i.e., they go from one node to another. Ex:- Twitter
+    
+-   **Undirected Graph:** A graph in which edges have no direction; they simply connect nodes without any specific order. Ex:- Facebook
+    
+-   **Weighted Graph:** A graph in which each edge has an associated weight or cost. 
+    
+-   **Directed Acyclic Graph (DAG):** A directed graph with no cycles (i.e., no closed loops).
+Example of a simple Directed Acyclic Graph (DAG):
+-   Nodes: A, B, C, D
+-   Directed Edges: A -> B, A -> C, B -> D, C -> D
+
+This graph is acyclic because there is no way to start at any node and follow the directed edges to return to the same node without going backward, i.e., there are no cycles
+
+**Adjacency:** Nodes in a graph may be adjacent to each other if there is an edge connecting them. i.e. they are neighbor 
+    
+**Degree:** The degree of a node is the number of edges connected to it. In a directed graph, the degree can be split into in-degree (number of incoming edges) and out-degree (number of outgoing edges).
+
+There are two implementations for graphs in coding
+**Adjacency Matrix:** and **Adjacency List:**
+
+
+1.  **Adjacency Matrix:**
+    
+    -   **Structure:** An NxN matrix (where N is the number of nodes in the graph).
+    -   **Entry (i, j):** Contains information about the edge between node i and node j.
+
+2.  **Adjacency List:**
+    
+    -   **Structure:** A collection of lists, where each node has a list of its neighboring nodes.
+
+
+#### Time and space complexity 
+
+![Alt Text](https://github.com/mindsparkist/Typical-DSA-Concepts/blob/main/image_2024-03-04_09-02-21.png?raw=true)
+
+There is also a graph called a dense graph where every node is connected to another node. 
+
+![Alt Text](https://github.com/mindsparkist/Typical-DSA-Concepts/blob/main/Dense-Graph.png?raw=true)
+
+
+
