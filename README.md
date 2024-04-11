@@ -1,5 +1,44 @@
 # Typical-DSA-Concepts
 
+Basic Data Structure 
+------------------------------
+Array
+Linked List
+stack
+queue
+Hash table
+
+hierarchical dsa
+
+Tree,
+ - Binary tree
+ - AVL Tree
+ - 2-3 trees, B+ B- trees, Expression Trees, Red-Black Tree, Splay Trees
+Heaps
+Tries
+Graphs
+Undirected Graphs
+
+---------------------------------------------------------------------------------
+DSA
+Sorting 
+ - Bubble Sort 
+ - Selection sort
+ - insertation sort
+ - Merge sort
+ - Quick Sort
+ - Counting Sort
+ - Bucket Sort
+Searching
+- Linear
+- Binary
+- Trenary
+- jump search
+- Exponential search
+
+-----------------------------------------------------------------------------------------------
+
+
 # Height of a tree:
 
 - Refers to the longest path from the root node to any leaf node in the tree.
